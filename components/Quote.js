@@ -53,7 +53,7 @@ console.log(json)
                 </ButtonGroup>
             </Col>
             <div className={'footer'}>
-                <a href="">Репозиторий</a>
+                <a href="https://github.com/a-vic-sokolov/test_task.git">Репозиторий</a>
             </div>
         </Row>
     )
